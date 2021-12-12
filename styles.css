@@ -1,0 +1,51 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: blue;
+}
+
+div:hover {
+    background-color: rgb(110, 110, 228);
+}
+
+img {
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 1px;
+}
+
+.shadow-text{
+    text-shadow: rgb(0, 0, 0) 1px 1px;
+}
+
+h3 {
+    color: purple;
+}
+
+h2 {
+    color: purple;
+}
+ 
+table {
+    color: rgb(0, 247, 255);
+}
+
+li {
+    color: rgb(0, 255, 115);
+}
+
+form {
+    color: rgb(255, 0, 0);
+}
+
+tr:nth-child(even) {
+    background-color: rgb(0, 0, 0);
+}
+
+#large-paragraph {
+    font-size: 20px;
+    color:rgb(255, 0, 212)
+}
